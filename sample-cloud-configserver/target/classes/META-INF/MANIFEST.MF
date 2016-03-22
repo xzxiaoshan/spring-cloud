@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: sample-cloud-configserver
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shanhy
+Implementation-Vendor-Id: com.sample.cloud
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
